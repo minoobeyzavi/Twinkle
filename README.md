@@ -8,7 +8,7 @@ Twitter Streaming API
 
 #### Deliverables
 
-Web Application
+Web Application</b>
 Keynote slides: Pipeline flowchart, mini movies of application, visualizations of similarity between tweets.
 
 #### References
