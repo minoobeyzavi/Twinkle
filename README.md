@@ -2,16 +2,16 @@
 To be offered as a feature on Twitter: Display similar tweets prior to posting the tweet
 This is a feature that people can interact with and would like to use.
 
-## Data
+#### Data
 
 Twitter Streaming API
 
-## Deliverables
+#### Deliverables
 
 Web Application
 Keynote slides: Pipeline flowchart, mini movies of application, visualizations of similarity between tweets.
 
-## References
+#### References
 
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://dev.havenondemand.com/apis/analyzesentiment#overview
