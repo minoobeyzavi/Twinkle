@@ -6,7 +6,10 @@ This is a feature that people can interact with and would like to use.
 
 Twitter Streaming API
 
-#### Deliverables
+#### What Does This Repo Contain
+
+- Explained in more detail.
+- `.py' The code
 
 Web Application,
 Keynote slides: Pipeline flowchart, mini movies of application, visualizations of similarity between tweets.
