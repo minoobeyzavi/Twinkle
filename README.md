@@ -2,9 +2,15 @@
 To be offered as a feature on Twitter: Display similar tweets prior to posting the tweet
 This is a feature that people can interact with and would like to use.
 
+## Motivation
+
+## Solution
+
 #### Data
 
 Twitter Streaming API
+
+#### Show Me The Code
 
 #### What Does This Repo Contain
 
