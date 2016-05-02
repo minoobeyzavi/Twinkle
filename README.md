@@ -1,4 +1,4 @@
-# Similar Tweets
+# Most Similar Tweets in Real-Time
 To be offered as a feature on Twitter: Display similar tweets prior to posting the tweet
 This is a feature that people can interact with and would like to use.
 
