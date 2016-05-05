@@ -4,6 +4,8 @@ This is a feature that people can interact with and would like to use.
 
 ## Motivation
 
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png)
+
 ## Solution
 
 #### Data
