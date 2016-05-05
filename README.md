@@ -1,5 +1,7 @@
 # Most Similar Tweets in Real-Time
-Display most similar tweets as a new tweet is being typed.
+
+### Description
+The web application will allow users to type their tweets and be presented with a list of most similar tweets previously posted.
 This is a feature that people can interact with and would like to use.
 
 ## Motivation
@@ -17,8 +19,6 @@ The application has to process billions of tweets to find the most similar recom
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png)
 
-## Description
-The web application will allow users to type their tweets and be presented with a small list of most similar tweets previously posted.
 
 ## Real-Time solution
 
