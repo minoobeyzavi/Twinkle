@@ -48,9 +48,15 @@ docs_vectorized = hv.fit_transform(docs_joined).toarray()
 lshf = LSHForest(random_state=42, radius_cutoff_ratio=0.4)
 lshf.fit(docs_vectorized)
 
+# Hashing new input
+new_doc_vectorized = hv.transform(new_doc).toarray()
+
 # Distances & indices
-dist, ind= lshf.radius_neighbors(docs_vectorized2, return_distance=True)
+dist, ind= lshf.radius_neighbors(new_doc_vectorized, return_distance=True)
 ```
+
+LSHForest uses internally random hyperplanes to index the samples into buckets and actual cosine similarities are only computed for samples that collide with the query hence achieving sublinear scaling.
+
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
 
