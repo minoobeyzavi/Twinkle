@@ -28,7 +28,17 @@ The application has to process billions of tweets to find the most similar recom
 
 ## Real-Time solution
 
+Sublinear scaling of runtime with sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest
+- Similar items map to the same “buckets” with high probability (the number of buckets being much smaller than the universe of possible input items)
+- LSHF generates hash trees
+- Uses hashing to define a neighborhood
+- Access to Nearest Neighbors Algorithm methods
+- Search space is limited to a bucket
+- Computes similarities to a small portion of tweets
+- As the tweets grow, runtime stays the same
+
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png)
+
 
 ```python
 hv = HashingVectorizer(n_features=10000, non_negative=True)
