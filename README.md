@@ -5,9 +5,7 @@ This is a feature that people can interact with and would like to use.
 ## Motivation
 
 Today’s media is social which means that it consists not only of consumption but also expression and these two are
-absolutely intertwined; whatever you consume has been expressed by someone else. Sharing your expression is the 
-definition of caring what others think.
-A social media personality is a performance. Those who can speak well, to the point and with lucidity, practice! 
+absolutely intertwined and a social media personality is a performance. Those who can speak well, to the point and with lucidity, practice.
 Most people tend to experience and value a certain amount of reserve when it comes to expression on Twitter. 
 That way they can preserve some of their mystery and subtlety. They can escape unnecessary judgment and recover the power 
 of their own voice.
@@ -28,13 +26,19 @@ The web application will allow users to type their tweets and be presented with 
 
 ## Real-Time solution
 
-Filtered Tweets -> Hashing Vectorizer -> Locality Sensitive Hashing Forest
+```python
+hv = HashingVectorizer(n_features=10000, non_negative=True)
+docs_vectorized = hv.fit_transform(docs_joined).toarray()
+
+# Local Sensitivity Hashing Forest
+lshf = LSHForest(random_state=42, radius_cutoff_ratio=0.4)
+lshf.fit(docs_vectorized)
+
+# Distances & indices
+dist, ind= lshf.radius_neighbors(docs_vectorized2, return_distance=True)
+```
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png)
-
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
-
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png)
 
 #### Data
 
@@ -43,8 +47,12 @@ Twitter Streaming API
 #### What This Repo Contains
 
 - Presentation
-- Model explained in more detail.
+- Model explained in detail
 - Code
+
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
+
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png)
 
 ### Future Direction
 
