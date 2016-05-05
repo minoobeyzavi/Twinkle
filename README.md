@@ -4,6 +4,12 @@
 The web application will allow users to type their tweets and be presented with a list of most similar tweets previously posted.
 This is a feature that people can interact with and would like to use.
 
+#### What This Repo Contains
+
+- Presentation
+- Model explained in detail
+- Code
+
 ## Motivation
 
 Having the recent similar tweets available to the author would significantly enhance the user experience on twitter by 
@@ -39,12 +45,6 @@ dist, ind= lshf.radius_neighbors(docs_vectorized2, return_distance=True)
 #### Data
 
 Twitter Streaming API
-
-#### What This Repo Contains
-
-- Presentation
-- Model explained in detail
-- Code
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
 
