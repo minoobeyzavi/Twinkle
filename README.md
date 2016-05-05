@@ -4,20 +4,16 @@ This is a feature that people can interact with and would like to use.
 
 ## Motivation
 
-Today’s media is social which means that it consists not only of consumption but also expression and these two are
-absolutely intertwined and a social media personality is a performance. Those who can speak well, to the point and with lucidity, practice.
-Most people tend to experience and value a certain amount of reserve when it comes to expression on Twitter. 
-That way they can preserve some of their mystery and subtlety. They can escape unnecessary judgment and recover the power 
-of their own voice.
 Having the recent similar tweets available to the author would significantly enhance the user experience on twitter by 
 creating a perspective of how connected we are; encouraging creativity and expressivity, enriching communications and
 conversations and lead to much more exciting interactions on Twitter.
-Furthermore, trending and ignored hashtags are consciously determined per tweet, usually offering creative variations
-or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; 
+Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; 
 (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of tweets is the more 
-clear window into the flow of topics and use of language, and quickly result in growth of interaction. Twitter has 
-already been training the society towards conciseness and inevitably thoughtfulness and proved that integrity in the 
-architecture of a social media significantly increases its vitality.
+clear window into the flow of topics and use of language, and quickly result in growth of interaction.
+
+### Challenge
+
+The application has to process billions of tweets to find the most similar recommendations for any given new tweet as it is being typed. In order to implment this feature in real-time we must create a solution to significantly lower the computation run-time.
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png)
 
