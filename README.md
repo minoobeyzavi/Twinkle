@@ -28,6 +28,8 @@ The application has to process billions of tweets to find the most similar recom
 
 ## Real-Time solution
 
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png)
+
 ```python
 hv = HashingVectorizer(n_features=10000, non_negative=True)
 docs_vectorized = hv.fit_transform(docs_joined).toarray()
@@ -40,15 +42,13 @@ lshf.fit(docs_vectorized)
 dist, ind= lshf.radius_neighbors(docs_vectorized2, return_distance=True)
 ```
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png)
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
+
+![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png)
 
 #### Data
 
 Twitter Streaming API
-
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
-
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png)
 
 ### Future Direction
 
