@@ -73,21 +73,27 @@ docs_joined = [' '.join(x) for x in docs]
 hv = HashingVectorizer(n_features=10000, non_negative=True)
 docs_vectorized = hv.fit_transform(docs_joined).toarray()
 
+# Local Sensitivity Hashing Forest
+lshf = LSHForest(random_state=42, radius_cutoff_ratio=0.4)
+lshf.fit(docs_vectorized)
+
+# Hashing new input
+new_doc_vectorized = hv.transform(new_doc).toarray()
+
+# Distances & indices
+dist, ind= lshf.radius_neighbors(new_doc_vectorized, return_distance=True)
+
 def get_similar(tweet):
-    docs2 = word_tokenize(tweet)
-    docs2 = [word for word in docs2 if word not in stop]
-    docs_wordnet2 = [wordnet.lemmatize(word) for word in docs2]
-    docs2 = docs_wordnet2
-    print docs2
-    docs_joined2 = [' '.join(docs2)]
-    print docs_joined2
-    docs_vectorized2 = hv.transform(docs_joined2).toarray()
+    doc = word_tokenize(tweet)
+    doc = [word for word in doc if word not in stop]
+    doc_wordnet = [wordnet.lemmatize(word) for word in doc]
+    doc = doc_wordnet
+    doc_joined = [' '.join(doc)]
+    new_doc = hv.transform(doc_joined).toarray()
     sorted_similar_tweets = np.argsort(cdist(docs_vectorized2[0, :][np.newaxis, :], docs_vectorized, 'jaccard'))
     return sorted_similar_tweets
 
-# vectorized_tweets.update(new_tweet)
-
-# BEGIN APP
+# begin app
 
 app = Flask(__name__)
 
