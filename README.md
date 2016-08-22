@@ -21,7 +21,7 @@ clear window into the flow of topics and use of language, and quickly result in 
 
 ### Challenge
 
-The application has to process billions of tweets to find the most similar recommendations for any given new tweet as it is being typed. In order to implment this feature in real-time we must create a solution to significantly lower the computation run-time.
+The application has to process billions of tweets to find the most similar recommendations for any given new tweet as it is being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run-time.
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png)
 
