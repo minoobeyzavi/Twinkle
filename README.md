@@ -12,14 +12,14 @@ This is a feature that people can interact with and would like to use.
 
 ## Motivation
 
-Having the recent similar tweets available to the author would significantly enhance the user experience on twitter by 
+Having the most similar tweets available to the author would significantly enhance the user experience on twitter by 
 creating a perspective of how connected we are; encouraging creativity and expressivity, enriching communications and
 conversations and lead to much more exciting interactions on Twitter.
 Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; 
 (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of tweets is the more 
 clear window into the flow of topics and use of language, and quickly result in growth of interaction.
 
-### Challenge
+## Challenge
 
 The application has to process billions of tweets to find the most similar recommendations for any given new tweet as it is being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run-time.
 
@@ -69,12 +69,13 @@ Twitter Streaming API
 ### Future Direction
 
 Transformative Suggestions on tweets whilst editing the tweet - to be offered as a feature on Twitter.
-"J.F.Kennedy: I would never lie to you." -> "I have integrity for greater good”
+- "J.F.Kennedy: I would never lie to you." -> "I have integrity for greater good.”
 This is modeled based on choice of words, context, strength of expressivity, expressions, grammar, punctuation, 
-case-sensitivity, previous usage, conceptual vs literal alacrity and contradictions of the two
-Conceptual:  "John F. Kennedy: I would never lie to you."
-Literal: "Good Morning”
-Giving weight power to words: "Audacity of Hope" vs. "Make America Great Again”
+case-sensitivity, previous usage, conceptual vs literal alacrity and contradictions of the two:
+- Conceptual:  "John F. Kennedy: I would never lie to you."
+- Literal: "Good Morning”
+And Giving weight power to words:
+- "Audacity of Hope" vs. "Make America Great Again”
 
 #### References
 
