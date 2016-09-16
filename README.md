@@ -73,6 +73,7 @@ Transformative Suggestions on tweets whilst editing the tweet - to be offered as
 This is modeled based on:
   * choice of words and expressions
   * context
+  * Intertextuality
   * strength of expressivity
   * grammar and punctuation 
   * case-sensitivity
