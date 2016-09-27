@@ -74,7 +74,7 @@ This is modeled based on:
   * choice of words and expressions
   * context
   * intertextuality
-  * strength of expressivity
+  * measure of positivity
   * grammar and punctuation 
   * case-sensitivity
   * History of usage on Twitter
@@ -84,6 +84,7 @@ Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning
 
 #### References
 
+http://www.ncbi.nlm.nih.gov/pubmed/22250591
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 https://dev.havenondemand.com/apis/analyzesentiment#overview
 https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
