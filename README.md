@@ -84,12 +84,12 @@ Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning
 
 #### References
 
-http://www.ncbi.nlm.nih.gov/pubmed/22250591
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-https://dev.havenondemand.com/apis/analyzesentiment#overview
-https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
-https://www.researchgate.net/publication/221752656_The_Positivity_Scale
-http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
+* http://www.ncbi.nlm.nih.gov/pubmed/22250591
+* http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* https://dev.havenondemand.com/apis/analyzesentiment#overview
+* https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
+* https://www.researchgate.net/publication/221752656_The_Positivity_Scale
+* http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
 
 
 ![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png)
