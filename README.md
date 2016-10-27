@@ -75,6 +75,7 @@ This is modeled based on:
   * context
   * intertextuality
   * measure of positivity
+  * classification of sentiment
   * grammar and punctuation 
   * case-sensitivity
   * History of usage on Twitter
