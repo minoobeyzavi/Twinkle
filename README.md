@@ -12,9 +12,7 @@ This is a feature that people can interact with and would like to use.
 
 ## Motivation
 
-Having the most similar tweets available to the author would significantly enhance the user experience on twitter by 
-creating a perspective of how connected we are; encouraging creativity and expressivity, enriching communications and
-conversations and lead to much more exciting interactions on Twitter.
+When we adopt a tool we also adopt the management philosophy embedded in that tool. Having the most similar tweets available to the author would significantly enhance the user experience on twitter by creating a perspective of how connected we are; encouraging creativity and expressivity, enriching communications and conversations and lead to much more exciting interactions on Twitter.
 Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; 
 (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of tweets is the more 
 clear window into the flow of topics and use of language, and quickly result in growth of interaction.
@@ -81,7 +79,7 @@ This is modeled based on:
   * History of usage on Twitter
   * Conceptual vs literal alacrity and contradictions of the two:
 Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning”
-  * Giving weight power to words: "Audacity of Hope" vs. "Make America Great Again”
+  * Giving weight-power to words: "Audacity of Hope" vs. "Make America Great Again”
 
 #### References
 
