@@ -83,6 +83,7 @@ Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning
 
 #### References
 
+* https://arxiv.org/pdf/1309.4168.pdf
 * http://www.ncbi.nlm.nih.gov/pubmed/22250591
 * https://cs224d.stanford.edu/reports/YuanYe.pdf
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
