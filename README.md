@@ -21,7 +21,7 @@ clear window into the flow of topics and use of language, and quickly result in 
 
 The application has to process billions of tweets to find the most similar recommendations for any given new tweet as it is being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run-time.
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png)
+<div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png"></div>
 
 
 ## Real-Time solution
@@ -35,7 +35,7 @@ Sublinear scaling of runtime with sequential use of Hashing Vectorizer and Local
 - Computes similarities to a small portion of tweets
 - As the tweets grow, runtime stays the same
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png)
+<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
 
 ```python
@@ -56,9 +56,9 @@ dist, ind= lshf.radius_neighbors(new_doc_vectorized, return_distance=True)
 LSHForest uses internally random hyperplanes to index the samples into buckets and actual cosine similarities are only computed for samples that collide with the query hence achieving sublinear scaling.
 
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png)
+<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png></div>
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png)
+<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png></div>
 
 #### Data
 
