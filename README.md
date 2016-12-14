@@ -93,4 +93,4 @@ Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning
 * http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
 
 
-![alt tag](https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png)
+<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png></div>
