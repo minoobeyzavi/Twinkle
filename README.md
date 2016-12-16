@@ -58,8 +58,6 @@ LSHForest uses internally random hyperplanes to index the samples into buckets a
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png></div>
 
-<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot02.png></div>
-
 #### Data
 
 Twitter Streaming API
