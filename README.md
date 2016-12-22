@@ -1,8 +1,7 @@
 # Most Similar Tweets in Real-Time
 
-### Description
-The web application will allow users to type their tweets and be presented with a list of most similar tweets previously posted.
-This is a feature that people can interact with and would like to use.
+I've Created a Natural Language Processing model capable of processing a growing database of billions of tweets and computing similarities in real-time, using a hashing vectorizer and a locality sensitive hashing forest sequentially to achieve sub-linear scaling of computation time.
+This could be offered as a feature on Twitter, allowing users to type their tweets and be instantly presented with a list of most similar tweets previously posted.
 
 #### What This Repo Contains
 
