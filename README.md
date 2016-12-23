@@ -60,8 +60,8 @@ LSHForest uses internally random hyperplanes to index the samples into buckets a
 #### Data
 
 Twitter Streaming API
-
-### Future Direction
+</br>
+## Future Direction
 
 Transformative Suggestions on tweets whilst editing the tweet - to be offered as a feature on Twitter.
 </br></br>
