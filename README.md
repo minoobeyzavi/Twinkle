@@ -5,9 +5,9 @@ This could be offered as a feature on Twitter, allowing users to type their twee
 
 #### What This Repo Contains
 
-- Presentation
-- Model explained in detail
+- Model
 - Code
+- Presentation
 
 ## Motivation
 
