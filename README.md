@@ -71,7 +71,6 @@ This is modeled based on:
   * choice of words and expressions
   * context
   * intertextuality
-  * measure of positivity
   * classification of sentiment
   * grammar and punctuation 
   * case-sensitivity
