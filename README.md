@@ -27,7 +27,7 @@ The application has to process billions of tweets to find the most similar recom
 
 Sublinear scaling of runtime with sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest
 - Similar items map to the same “buckets” with high probability (the number of buckets being much smaller than the universe of possible inputs)
-- LSHF generates hash trees
+- LSH Forest generates hash trees
 - Uses hashing to define a neighborhood
 - Access to Nearest Neighbors Algorithm methods
 - Search space is limited to a bucket
