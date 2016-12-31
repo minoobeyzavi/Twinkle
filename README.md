@@ -92,4 +92,4 @@ Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning
 * https://www.researchgate.net/publication/221752656_The_Positivity_Scale
 * http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
 
-<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png></div>
+<div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png width="600"></div>
