@@ -70,13 +70,11 @@ Transformative Suggestions on tweets whilst editing the tweet - to be offered as
 "J.F.Kennedy: I would never lie to you."  ->  "I have integrity for greater good.”
 </br></br>
 This is modeled based on:
-  * choice of words and expressions
-  * context
-  * intertextuality
-  * classification of sentiment
-  * grammar and punctuation 
-  * case-sensitivity
-  * History of usage on Twitter
+  * Words and expressions
+  * Context
+  * Intertextuality
+  * Classification of sentiment
+  * Grammar
   * Conceptual vs literal alacrity and contradictions of the two:
 Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning”
   * Giving weight-power to words: "Audacity of Hope" vs. "Make America Great Again”
