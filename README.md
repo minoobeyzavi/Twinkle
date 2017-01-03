@@ -76,8 +76,10 @@ This is modeled based on:
   * Classification of sentiment
   * Grammar
   * Conceptual vs literal alacrity and contradictions of the two:</br>
-Conceptual:  "John F. Kennedy: I would never lie to you." Literal: "Good Morning”
-  * Giving weight-power to words: "Audacity of Hope" vs. "Make America Great Again”
+Conceptual:  "John F. Kennedy: I would never lie to you."</br>
+Literal: "Good Morning”
+  * Giving weight-power to words:</br>
+  "Audacity of Hope" vs. "Make America Great Again”
 
 #### References
 
