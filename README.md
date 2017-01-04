@@ -77,11 +77,13 @@ This is modeled based on:
   * Grammar
   * Conceptual vs literal alacrity and contradictions of the two:</br>
 ```
-"John F. Kennedy: I would never lie to you." => Conceptual</br>
-"Good Morning” => Literal
+  "John F. Kennedy: I would never lie to you." => Conceptual
+  "Good Morning” => Literal
 ```
   * Giving weight-power to words:</br>
+```
   "Audacity of Hope" vs. "Make America Great Again”
+```
 
 #### References
 
