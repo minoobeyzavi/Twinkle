@@ -77,7 +77,7 @@ This is modeled based on:
   * Grammar
   * Conceptual vs literal alacrity and contradictions of the two:</br>
 ```
-  "John F. Kennedy: I would never lie to you." => Conceptual
+  "JFK: I would never lie to you." => Conceptual
   "Good Morning” => Literal
 ```
   * Giving weight-power to words:</br>
