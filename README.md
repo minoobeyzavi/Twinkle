@@ -66,9 +66,9 @@ Twitter Streaming API
 ## Future Direction
 
 Transformative Suggestions on tweets whilst editing the tweet - to be offered as a feature on Twitter.
-</br></br>
-"J.F.Kennedy: I would never lie to you."  ->  "I have integrity for greater good.”
-</br></br>
+```
+"JFK: I would never lie to you"  ->  "I have integrity for greater good”
+```
 This is modeled based on:
   * Words and expressions
   * Context
