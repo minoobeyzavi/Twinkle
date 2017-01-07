@@ -65,7 +65,7 @@ Twitter Streaming API
 </br>
 ## Future Direction
 
-Transformative Suggestions on tweets whilst editing the tweet - to be offered as a feature on Twitter.
+Transformative Suggestions on tweets before they are posted.
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
