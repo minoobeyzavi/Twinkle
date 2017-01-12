@@ -16,7 +16,7 @@ Trending Hashtags are consciously determined per tweet, usually offering creativ
 (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of text provides a much more 
 clear window into the flow of topics and things people have in common. Offering this feature on a text-based medium such as Twitter would quickly result in growth of positive interaction. It can also provide lots of insights into social creativtiy and help with interesting content strategy.
 
- <div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/TwitterStats.png"></div>
+ <!--<div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/TwitterStats.png"></div>-->
 
 ## Challenge
 
