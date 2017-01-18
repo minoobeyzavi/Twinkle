@@ -92,6 +92,7 @@ This is modeled based on:
 * http://www.ncbi.nlm.nih.gov/pubmed/22250591
 * https://cs224d.stanford.edu/reports/YuanYe.pdf
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* http://www.dubberly.com/articles/what-is-conversation.html
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
 * https://www.researchgate.net/publication/221752656_The_Positivity_Scale
