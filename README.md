@@ -66,7 +66,7 @@ The WordNet lemmatizer and word_tokenize functions from NLTK were applied to tok
 </br>
 ## Future Direction
 
-Transformative Suggestions on tweets before they are posted.
+Transformative suggestions on tweets before they are posted.
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
