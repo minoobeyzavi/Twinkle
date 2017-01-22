@@ -12,8 +12,8 @@ This could be offered as a feature on Twitter, allowing users to type their twee
 
 ## Goal
 
-- When we adopt a tool we also adopt the management philosophy embedded in that tool. Having the most similar tweets available to the author would significantly enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communications and conversations and lead to much more exciting interactions on Twitter.
-- Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of text provides a much more clear window into the flow of topics and things people have in common and offering this feature would quickly increase positive interactions.
+- **Growth of Interactions** When we adopt a tool we also adopt the management philosophy embedded in that tool. Having the most similar tweets available to the author would significantly enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communications and conversations and lead to much more exciting interactions on Twitter.
+- **Growth of Positive Interactions** Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of text provides a much more clear window into the flow of topics and things people have in common and offering this feature would quickly increase positive interactions.
 
  <!--<div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/TwitterStats.png"></div>-->
 
