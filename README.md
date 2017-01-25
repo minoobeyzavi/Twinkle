@@ -77,7 +77,7 @@ This is modeled based on:
   * Intertextuality
   * Sentiment Analysis
   * Grammar
-  * Conceptual vs literal alacrity and contradictions of the two:</br>
+  * Conceptual vs literal alacrity</br>
 ```
   "JFK: I would never lie to you." => Conceptual
   "Good Morning” => Literal
