@@ -73,10 +73,9 @@ Transformative suggestions on tweets before they are posted.
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
 This is modeled based on:
-  * Words and expressions
-  * Context
+  * Word-sense induction
   * Intertextuality
-  * Classification of sentiment
+  * Sentiment Analysis
   * Grammar
   * Conceptual vs literal alacrity and contradictions of the two:</br>
 ```
