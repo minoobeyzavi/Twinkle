@@ -25,7 +25,7 @@ The application has to process billions of tweets to find the most similar recom
 <div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png"></div>
 
 
-## Real-Time solution
+## Real-Time Solution
 
 Sublinear scaling of runtime with sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest
 - Similar items map to the same “buckets” with high probability (the number of buckets being much smaller than the universe of possible inputs)
