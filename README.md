@@ -17,6 +17,7 @@ This could be offered as a feature on Twitter, allowing users to type their twee
 - **Growth of Positive Interactions** Trending Hashtags are consciously determined per tweet, usually offering creative variations or alternatives for the actual context of the tweet, sometimes even ironically unrelated phrases to express sarcasm; (hash)tags are secondary in importance as opposed to the tweet itself. Therefore, similarity of text provides a much more clear window into the flow of topics and things people have in common and offering this feature would quickly increase positive interactions.
 - **User Growth** Twitter is live: live commentary, live conversations, live connections and growth of positive interractions could be the most powerful opportunity to attract and increase the number of monthly active users.
 
+
  <!--<div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/TwitterStats.png"></div>-->
 
 ## Challenge
