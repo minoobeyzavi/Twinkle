@@ -13,7 +13,7 @@ This could be offered as a feature on Twitter, allowing users to view a list of 
 
 ## Motivations
 
-- **Growth of Positive Interactions** When we adopt a tool we also adopt the management philosophy embedded in that tool. Having the most similar tweets available to the author would significantly enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communications and conversations and lead to much more exciting interactions on Twitter. Hashtags are secondary in importance as opposed to the tweet itself since they usually offer creative variations or alternatives for the actual context of the tweet. Therefore, tweet-similarity provides a much more clear window into the flow of topics and things people have in common and offering this feature would quickly increase positive interactions and Twitter is well-positioned to benefit from this headway.
+- **Growth of Positive Interactions** When we adopt a tool we also adopt the management philosophy embedded in that tool. Having the most similar tweets available to the author would significantly enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communications and conversations and lead to much more exciting interactions on Twitter. Hashtags are secondary in importance as opposed to the tweet itself since they usually offer creative variations or alternatives for the actual context of the tweet. Therefore, similarity in tweets provides a much more clear window into the flow of topics and things people have in common and offering this feature would quickly increase positive interactions and Twitter is well-positioned to benefit from this headway.
 - **User Growth** Twitter is live: live commentary, live conversations, live connections; growth of positive interactions could be the most powerful opportunity to attract and increase the number of monthly active users and excite advertisers.
 
 
@@ -94,6 +94,7 @@ This is modeled based on:
 * http://www.ncbi.nlm.nih.gov/pubmed/22250591
 * https://cs224d.stanford.edu/reports/YuanYe.pdf
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+* http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval002.pdf
 * http://www.dubberly.com/articles/what-is-conversation.html
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
