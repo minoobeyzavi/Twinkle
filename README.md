@@ -13,8 +13,7 @@ This could be offered as a feature on Twitter, allowing users to view a list of 
 
 ## Motivations
 
-<i>"This above all: to thine own truth, tweet; and to thine own tweet, be true. And it must follow, as the night the day, thou canst not then be false to any man. Thou shall evolve."</i></br></br>
-When we adopt a tool we also adopt the management philosophy embedded in that tool. Twitter is training the users towards conciseness and calamity. Our practice of integrity shall lead us towards a more heavenly beautiful life.
+When we adopt a tool we also adopt the management philosophy embedded in that tool. Twitter is training the users towards conciseness and calamity. Our daily practice of integrity on social media is improving our use of language, actions and personalities and swiftly lead to evolution of the society beyond traditional expectations.
 
 - **Growth of Positive Interactions** Having the most similar tweets available to the user would significantly enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communication and lead to much more exciting interactions on Twitter. Hashtags usually offer creative variations or alternatives for the actual context of the tweet. Resemblence of the entire tweet however, displays a much more exciting connection and offering this feature would quickly increase positive interactions.
 - **User Growth** Twitter is live: live commentary, live conversations, live connections; growth of positive interactions could be the most powerful opportunity to attract and increase the number of monthly active users and excite advertisers. Twitter is well-positioned to benefit from this headway.
