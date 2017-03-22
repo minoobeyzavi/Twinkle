@@ -101,6 +101,7 @@ This is modeled based on:
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
 * https://www.researchgate.net/publication/221752656_The_Positivity_Scale
+* https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
 * http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png></div>
