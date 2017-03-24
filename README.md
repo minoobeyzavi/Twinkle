@@ -85,7 +85,7 @@ This is modeled based on:
   "JFK: I would never lie to you." => Conceptual
   "Good Morning” => Literal
 ```
-  * Giving weight-power to words:</br>
+  * Giving Weight-Power to Words:</br>
 ```
   "Audacity of Hope" vs. "Make America Great Again”
 ```
