@@ -77,9 +77,10 @@ Offering <b>Transformative Suggestions</b> for tweets before they are posted.
 ```
 This is modeled based on:
   * Word-Sense Induction
+  * Grammar
   * Intertextuality
   * Sentiment Analysis
-  * Grammar
+  * Allusion
   * Conceptual vs Literal Alacrity</br>
 ```
   "JFK: I would never lie to you." => Conceptual
