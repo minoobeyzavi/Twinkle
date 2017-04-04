@@ -80,7 +80,6 @@ This is modeled based on:
   * Grammar
   * Intertextuality
   * Sentiment Analysis
-  * Allusion
   * Conceptual vs Literal Alacrity</br>
 ```
   "JFK: I would never lie to you." => Conceptual
