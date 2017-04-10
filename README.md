@@ -37,7 +37,7 @@ The application has to process billions of tweets to find the most similar recom
 - Access to Nearest Neighbors Algorithm methods
 - Search space is limited to a bucket
 - Computes similarities to a small portion of tweets
-- As the database of text documents grows larger, runtime stays the same
+- As the <b>database of text documents grows larger, runtime stays the same</b>
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
