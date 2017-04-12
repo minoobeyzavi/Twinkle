@@ -82,8 +82,8 @@ This is modeled based on:
   * Sentiment Analysis
   * Conceptual vs. Literal Alacrity</br>
 ```
-  "JFK: I would never lie to you." => Conceptual
   "Good Morning” => Literal
+  "JFK: I would never lie to you." => Conceptual
 ```
   * Giving Weight-Power to Words:</br>
 ```
