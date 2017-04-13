@@ -75,7 +75,7 @@ Offering <b>Transformative Suggestions</b> for tweets before they are posted.
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
-This is modeled based on:
+This model is going to be designed using:
   * Word-Sense Induction
   * Grammar
   * Intertextuality
