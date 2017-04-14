@@ -30,7 +30,7 @@ The application has to process billions of tweets to find the most similar recom
 
 ## Real-Time Solution
 
-<b>Sublinear scaling of runtime</b> with sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest:
+Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest</b>:
 - Similar items map to the same “buckets” with high probability (the number of buckets being much smaller than the universe of possible inputs)
 - LSH Forest generates hash trees
 - Uses hashing to define a neighborhood
