@@ -5,7 +5,7 @@ This could be offered as a feature on Twitter, to view the most similar tweets s
 
 #### What This Repo Contains
 
-- Model
+- Model Description
 - Code
 - Presentation
 - Future Direction
