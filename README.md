@@ -80,7 +80,7 @@ Offering <b>Transformative Suggestions</b> for tweets before they are posted.
 This model is going to be designed based on:
   * Word-Sense Induction
   * Grammar
-  * Intertextuality
+  * <a href="https://en.wikipedia.org/wiki/Intertextuality">Intertextuality</a>
   * Sentiment Analysis
   * Conceptual vs. Literal Alacrity</br>
 ```
