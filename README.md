@@ -102,6 +102,7 @@ This model is going to be designed based on:
 * http://www.dubberly.com/articles/what-is-conversation.html
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
+* http://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
 * https://www.researchgate.net/publication/221752656_The_Positivity_Scale
 * https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
 * http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
