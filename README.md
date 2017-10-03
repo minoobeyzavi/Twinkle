@@ -69,7 +69,7 @@ LSHForest uses internally random hyperplanes to index the samples into buckets a
 #### Data
 
 - Twitter Streaming API
-- The WordNet lemmatizer and word_tokenize functions from NLTK were applied to tokenize the text documents before training.
+- The WordNet lemmatizer and word_tokenize functions from NLTK were applied to tokenize the text documents prior to training the model.
 
 ## Future Direction
 
