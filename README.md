@@ -94,6 +94,7 @@ This model is going to be designed based on:
 
 #### References
 
+* http://www.nltk.org/book/ch08.html
 * https://arxiv.org/pdf/1309.4168.pdf
 * http://www.ncbi.nlm.nih.gov/pubmed/22250591
 * https://cs224d.stanford.edu/reports/YuanYe.pdf
