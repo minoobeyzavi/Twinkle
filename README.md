@@ -73,7 +73,7 @@ LSHForest uses internally random hyperplanes to index the samples into buckets a
 
 ## Future Direction
 
-Offering <b>Transformative Suggestions</b> for tweets as they're being typed.
+Offering <b>Transformative Suggestions</b> as tweets are being typed.
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
