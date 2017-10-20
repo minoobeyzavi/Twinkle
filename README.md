@@ -37,7 +37,7 @@ Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Lo
 - Uses hashing to define a neighborhood
 - Access to Nearest Neighbors Algorithm methods
 - Search space is limited to a bucket
-- Computes similarities to a small portion of tweets
+- Finds the most similar tweets by computing similarities to a small portion of tweets
 
 <b>As the database of text documents grows larger, runtime stays the same!</b>
 
