@@ -35,7 +35,7 @@ Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Lo
 - Similar items map to the same “buckets” with high probability (the number of buckets are much smaller than the universe of possible inputs)
 - LSH Forest generates hash trees
 - Uses hashing to define a neighborhood
-- Access to Nearest Neighbors Algorithm methods
+- Access to Nearest Neighbors algorithm methods
 - Search space is limited to a bucket
 - Finds the most similar tweets by computing similarities to a small portion of tweets
 
