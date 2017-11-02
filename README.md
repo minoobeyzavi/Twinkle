@@ -44,7 +44,7 @@ Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Lo
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
 ## LSH Forest
-<b>Locality Sensitive Hashing forest</b> is an alternative method for vanilla approximate nearest neighbor search methods. In Scikit-Learn, LSH forest data structure has been implemented using sorted arrays and binary search and 32 bit fixed-length hashes. Random projection is used as the hash family which approximates cosine distance.
+<b>Locality Sensitive Hashing forest</b> is an alternative method for vanilla approximate nearest neighbor search methods. In Scikit-Learn, LSH forest data structure has been implemented using sorted arrays, binary search and 32 bit fixed-length hashes. Random projection is used as the hash family which approximates cosine distance.
 
 ```python
 hv = HashingVectorizer(n_features=10000, non_negative=True)
