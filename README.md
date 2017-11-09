@@ -89,7 +89,7 @@ This model is going to be designed based on:
   "Good Morning” => Literal
   "JFK: I would never lie to you." => Conceptual
 ```
-  * Giving Weight-Power to Words:</br>
+  * and giving weight-power to words:</br>
 ```
   "Audacity of Hope" vs. "Make America Great Again”
 ```
