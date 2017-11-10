@@ -25,14 +25,14 @@ When we adopt a tool we also adopt the management philosophy embedded in that to
 
 ## Challenge
 
-The application has to process billions of tweets to find the most similar recommendations for tweets as they are being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run-time!
+The application has to process billions of tweets to find the most similar recommendations for tweets as they are being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run time!
 
 <div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png"></div>
 
 
 ## Real-Time Solution
 
-Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest</b>:
+Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest</b>:
 - Similar items map to the same “buckets” with high probability (the number of buckets are much smaller than the universe of possible inputs)
 - LSH Forest generates hash trees
 - Uses hashing to define a neighborhood
@@ -40,7 +40,7 @@ Sublinear scaling of runtime with <b>sequential use of Hashing Vectorizer and Lo
 - Search space is limited to a bucket
 - Finds the most similar tweets by computing similarities to a small portion of tweets
 
-<b>As the database of text documents grows larger, runtime stays the same!</b>
+<b>As the database of text documents grows larger, model execution time stays the same!</b>
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
