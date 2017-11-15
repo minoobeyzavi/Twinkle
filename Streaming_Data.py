@@ -22,7 +22,7 @@ iterator = twitter_stream.statuses.sample(language="en")
 client = MongoClient()
 db = client['tweets_db']
 
-# Choose number of tweets wisely depending on available space.
+# Choose number of tweets depending on available space.
 tweet_count = 1000000
 
 for tweet in iterator:
