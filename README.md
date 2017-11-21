@@ -8,7 +8,7 @@ This could be offered as a feature on Twitter, to display the most similar tweet
 
 - Model Description
 - Code
-- Presentation
+- Capstone project presentation
 - Future Direction
 - References
 
