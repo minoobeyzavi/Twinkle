@@ -18,7 +18,7 @@ When we adopt a tool we also adopt the management philosophy embedded in that to
 
 
 - **Growth of Positive Interactions** Having the most similar tweets available to the user would enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communication and lead to much more exciting interactions on Twitter. Hashtags usually offer creative variations or alternatives for the actual context of the tweet. Resemblence of the entire tweet however, displays a much more exciting connection and offering this feature would quickly increase positive interactions.
-- **User Growth** Twitter is live: live commentary, live conversations, live connections; growth of positive interactions could be the most powerful opportunity to attract and increase the number of monthly active users and excite advertisers. Twitter is very well-positioned to benefit from this headway.
+- **User Growth** Twitter is live: live commentary, live conversations, live connections; growth of positive interactions could be the most powerful opportunity to attract and increase the number of monthly active users. Twitter is very well-positioned to benefit from this headway.
 
 
  <!--<div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/TwitterStats.png"></div>-->
