@@ -78,7 +78,7 @@ Offering <b>Transformative Suggestions</b> as a new tweet is being typed to enco
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
-This model is going to the generate the suggestions based on:
+This model is going to generate the suggestions based on:
 
   * <a href="https://en.wikipedia.org/wiki/Word-sense_induction">Word-Sense Induction</a>
   * Grammar
