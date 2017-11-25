@@ -74,7 +74,7 @@ LSHForest uses internally random hyperplanes to index the samples into buckets a
 
 ## Future Direction
 
-Offering <b>Transformative Suggestions</b> as a new tweet is being typed to encourage literal and conceptual positivity.
+Offering <b>Transformative Suggestions</b> as a new tweet is being typed to inspire genius and excite users to originate more creative and positivite energy.
 ```
 "JFK: I would never lie to you"  ->  "I have integrity for greater good”
 ```
