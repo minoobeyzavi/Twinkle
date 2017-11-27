@@ -86,8 +86,8 @@ This model is going to generate the suggestions based on:
   * Sentiment Analysis
   * Conceptual vs. Literal Alacrity</br>
 ```
-  "Good Morning” => Literal
-  "JFK: I would never lie to you." => Conceptual
+  "Good Morning” => Literal Positivity
+  "JFK: I would never lie to you." => Conceptual Positivity
 ```
   * and giving weight-power to words:</br>
 ```
