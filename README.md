@@ -2,7 +2,7 @@
 
 Twinkle is a Natural Language Processing model capable of processing a growing database of billions of tweets and finding the most similar tweet in real-time. This model computes similarities using a hashing vectorizer and a Locality Sensitive Hashing Forest sequentially to achieve sub-linear scaling of computation time.
 
-This could be offered as a feature on Twitter, to display the most similar tweets simultaneously as the user is typing a new tweet.
+This could be offered as a feature on Twitter, to display the most similar tweets as the user is typing a new tweet.
 
 #### What This Repo Contains
 
