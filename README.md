@@ -6,7 +6,7 @@ This could be offered as a feature on Twitter, to display the most similar tweet
 
 #### What This Repo Contains
 
-- Model Description
+- Project and Model Description
 - Code
 - Capstone presentation
 - Future Direction
