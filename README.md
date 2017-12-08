@@ -100,6 +100,7 @@ This model is going to generate the suggestions based on:
 * http://www.nltk.org/book/ch08.html
 * http://www.ncbi.nlm.nih.gov/pubmed/22250591
 * https://cs224d.stanford.edu/reports/YuanYe.pdf
+* https://www.producthunt.com/posts/unshakespeare
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval002.pdf
 * http://www.dubberly.com/articles/what-is-conversation.html
