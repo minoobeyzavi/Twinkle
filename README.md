@@ -40,7 +40,7 @@ Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and L
 - Search space is limited to a bucket
 - Finds the most similar tweets by computing similarities to a small portion of tweets
 
-<b>As the database of text documents grows larger, model execution time stays the same!</b>
+<b>As the database of text documents grows larger, execution time stays the same!</b>
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
