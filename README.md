@@ -1,6 +1,6 @@
 # Most Similar Tweets in Real-Time
 
-Twinkle is a Natural Language Processing model capable of processing a growing database of billions of tweets and finding the most similar tweets in real-time as the user is typing a new tweet. This model computes similarities by using a hashing vectorizer and a Locality Sensitive Hashing Forest sequentially to achieve sub-linear scaling of computation time.
+Twinkle is a Natural Language Processing model capable of processing a growing database of billions of tweets and finding the most similar text in real-time as the user is typing a new tweet. This model computes similarities by using a hashing vectorizer and a Locality Sensitive Hashing Forest sequentially to achieve sub-linear scaling of computation time.
 
 
 #### What This Repo Contains
