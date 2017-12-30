@@ -24,7 +24,7 @@ When we adopt a tool we also adopt the management philosophy embedded in that to
 
 ## Challenge
 
-The application has to find the most similar recommendations for tweets billions of tweets as a new tweet is being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run time!
+The application has to find the most similar recommendations for tweets billions of tweets as a new tweet is being typed. In order to implement this feature in real-time we must create a solution to significantly lower the computation run time.
 
 <div align="center"><img src="https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twinkle.png"></div>
 
