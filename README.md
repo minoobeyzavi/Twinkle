@@ -81,8 +81,9 @@ This NLP model is going to generate the suggestions based on:
   * <a href="https://en.wikipedia.org/wiki/Word-sense_induction">Word-Sense Induction</a>
   * Grammar
   * <a href="https://en.wikipedia.org/wiki/Intertextuality">Intertextuality</a>
-  * Sentiment Analysis
-  * Conceptual vs. Literal Alacrity</br>
+  * Sentiment analysis
+  * Positivity and expressivity
+  * Conceptual vs. literal alacrity</br>
 ```
   "Good Morning” => Literal
   "JFK: I would never lie to you." => Conceptual
