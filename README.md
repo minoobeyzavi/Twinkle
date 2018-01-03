@@ -82,7 +82,6 @@ This NLP model is going to generate the suggestions based on:
   * Grammar
   * <a href="https://en.wikipedia.org/wiki/Intertextuality">Intertextuality</a>
   * Sentiment analysis
-  * Positivity and expressivity
   * Conceptual vs. literal alacrity</br>
 ```
   "Good Morning” => Literal
