@@ -31,10 +31,9 @@ The application has to find the most similar recommendations for tweets billions
 
 ## Real-Time Solution
 
-Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest</b>:
+Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing (LSH) Forest</b>:
 - Similar items map to the same “buckets” with high probability (the number of buckets are much smaller than the universe of possible inputs);
-- Locality Sensitive Hashing (LSH) uses hashing to define a neighborhood;
-- LSH Forest generates hash trees;
+- LSH Forest generates hash trees and uses hashing to define neighborhoods;
 - Scikit-learn implementation of LSH provides access to Nearest Neighbors algorithm methods;
 - Search space is limited to a bucket and we find the most similar tweets by computing similarities to a small portion of tweets.
 
