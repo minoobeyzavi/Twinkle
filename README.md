@@ -85,7 +85,7 @@ This NLP model is going to generate the suggestions based on:
   "Good Morning” => Literal
   "JFK: I would never lie to you." => Conceptual
 ```
-  * And giving weight-power to words:</br>
+  * And giving weight-power to words</br>
 ```
   "Audacity of Hope" vs. "Make America Great Again”
 ```
