@@ -59,7 +59,7 @@ new_doc_vectorized = hv.transform(new_doc).toarray()
 dist, ind= lshf.radius_neighbors(new_doc_vectorized, return_distance=True)
 ```
 
-LSHForest uses internally random hyperplanes to index the samples into buckets and cosine similarities are only computed for samples that collide with the query hence achieving sublinear scaling of computation time.
+LSH Forest uses internally random hyperplanes to index the samples into buckets and cosine similarities are only computed for samples that collide with the query hence achieving sublinear scaling of computation time.
 
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/screenshot01.png></div>
