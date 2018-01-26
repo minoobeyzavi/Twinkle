@@ -37,7 +37,7 @@ Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and L
 - Scikit-learn implementation of LSH provides access to Nearest Neighbors algorithm methods;
 - Search space is limited to a bucket and we find the most similar tweets by computing similarities to a small portion of tweets.
 
-<b>As the database of text documents grows larger, model execution time stays the same!</b>
+<b>As the database grows larger, model execution time stays the same!</b>
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
