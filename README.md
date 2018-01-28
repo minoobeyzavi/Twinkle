@@ -100,6 +100,7 @@ This NLP model is going to generate the suggestions based on:
 * https://www.producthunt.com/posts/unshakespeare
 * http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 * http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval002.pdf
+* http://www-users.cs.york.ac.uk/~suresh/papers/WSIUGOC.pdf
 * http://www.dubberly.com/articles/what-is-conversation.html
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
