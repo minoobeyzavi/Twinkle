@@ -48,7 +48,7 @@ Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and L
 hv = HashingVectorizer(n_features=10000, non_negative=True)
 docs_vectorized = hv.fit_transform(docs_joined).toarray()
 
-# Local Sensitivity Hashing Forest
+# Locality Sensitive Hashing Forest
 lshf = LSHForest(random_state=42, radius_cutoff_ratio=0.4)
 lshf.fit(docs_vectorized)
 
