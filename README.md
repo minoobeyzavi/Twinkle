@@ -73,7 +73,7 @@ LSH Forest uses internally random hyperplanes to index the samples into buckets 
 
 Offering <b>Positive Transformative Suggestions</b> as a new tweet is being typed.
 ```
-"JFK: I would never lie to you"  ->  "I have integrity for greater good”
+"JFK: I would never lie to you"  ->  "I shall speak to you with integrity”
 ```
 This NLP model is going to generate the suggestions based on:
 
