@@ -13,7 +13,7 @@ Twinkle is a Natural Language Processing (NLP) model capable of processing a gro
 
 ## Motivations
 
-When we adopt a tool we also adopt the management philosophy embedded in that tool. Writing a tweet is a practice towards conciseness and expressivity. Our practice of self expression on social media is improving our integrity, actions and personalities. Twitter's super power is not just to quickly spread information and create effective conversations. The most cutting edge social education is now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
+When we adopt a tool we also adopt the management philosophy embedded in that tool. Writing a tweet is a practice towards conciseness and expressivity. Our practice of self expression on social media is improving our integrity, actions and personalities. Twitter's super power is not just to quickly spread information and create effective conversations. The most cutting edge social teachings are now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
 
 
 - **Growth of Positive Interactions** Having the most similar tweets available to the user would enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and expressivity, enriching communication and lead to much more exciting interactions on Twitter. Hashtags usually offer creative variations or alternatives for the actual context of the tweet. Resemblence of the entire tweet however, displays an exciting connection amongst users and offering this feature could quickly increase positive interactions.
