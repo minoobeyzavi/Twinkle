@@ -108,5 +108,6 @@ This NLP model is going to generate the suggestions based on:
 * https://www.researchgate.net/publication/221752656_The_Positivity_Scale
 * https://research.googleblog.com/2016/11/zero-shot-translation-with-googles.html
 * http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1010&context=leadershipfacpub
+* https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Twitter.png></div>
