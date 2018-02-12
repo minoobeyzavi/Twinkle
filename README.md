@@ -13,10 +13,10 @@ Twinkle is a Natural Language Processing (NLP) model capable of processing a gro
 
 ## Motivations
 
-When we adopt a tool we also adopt the management philosophy embedded in that tool. Writing a tweet is an act of conciseness and expressivity. Twitter is a uniquely refined medium with super powers to quickly spread information and host effective conversations. Our practice of self expression on social media is improving our creativity, actions, personalities and integrity. The most cutting edge social teachings are now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
+When we adopt a tool we also adopt the management philosophy embedded in that tool. Writing a tweet is an act of conciseness and expressivity. Twitter is a uniquely refined medium with super powers to quickly spread information and host effective conversations. Our practice of self expression on social media is improving our opinions, actions and integrity. The most cutting edge social teachings are now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
 
 
-- **Growth of Positive Interactions** Having the most similar tweets available to the user would enhance the user experience on twitter by creating a strong sense of connection, encouraging creativity and enriching communication which lead to much more exciting interactions on Twitter. While hashtags focus on creative expressions or offer alternative variations for the actual context of the tweet, resemblence of the entire tweet displays an exciting connection amongst users and offering this feature could quickly increase positive interactions.
+- **Growth of Positive Interactions** Having the most similar tweets available to the user would enhance the user experience by creating a strong sense of connection, encouraging creativity and inspiring communication which lead to more exciting interactions on Twitter. While hashtags focus on creative expressions or offer alternative variations for the actual context of the tweet, resemblence of the entire tweet displays an exciting connection amongst users and offering this feature could quickly increase positive interactions.
 - **User Growth** Twitter is live; live commentary, live conversations, live videos, live connections; growth of positive real-time interactions could be the best opportunity to attract and increase the number of monthly active users. Twitter is well-positioned to benefit from this headway.
 
 
