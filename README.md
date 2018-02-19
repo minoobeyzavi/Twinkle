@@ -13,7 +13,7 @@ Twinkle is a Natural Language Processing (NLP) model capable of processing a gro
 
 ## Motivations
 
-When we adopt a tool we also adopt the management philosophy embedded in that tool. Twitter users enjoy practicing conciseness and expressivity. Twitter is uniquely equipped with refined super powers to quickly spread information and host effective conversations; improving our opinions, actions and integrity. The most cutting edge social teachings are now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
+When we adopt a tool we also adopt the management philosophy embedded in that tool. Twitter users practice conciseness and expressivity. Twitter is uniquely equipped with refined super powers to quickly spread information and host effective conversations; improving our opinions, actions and integrity. The most cutting edge social teachings are now happening on Twitter at light speed and hashtags are advancing the evolution of society beyond traditional expectations.
 
 
 - **Growth of Positive Interactions** Having the most similar tweets available to the user would enhance the user experience by creating a strong sense of connection, encouraging creativity and inspiring communication which lead to more exciting interactions on Twitter. While hashtags focus on creative expressions or offer alternative variations for the actual context of the tweet, resemblence of the tweet itself displays exciting connections amongst users and offering this feature could quickly increase positive interactions.
