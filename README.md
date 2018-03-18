@@ -102,6 +102,7 @@ This NLP model is going to generate the suggestions based on:
 * http://alt.qcri.org/semeval2015/cdrom/pdf/SemEval002.pdf
 * http://www-users.cs.york.ac.uk/~suresh/papers/WSIUGOC.pdf
 * http://www.dubberly.com/articles/what-is-conversation.html
+* https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy
 * https://dev.havenondemand.com/apis/analyzesentiment#overview
 * https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf
 * http://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/
