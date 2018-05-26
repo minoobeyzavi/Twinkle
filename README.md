@@ -78,6 +78,7 @@ Offering <b>Positive Transformative Suggestions</b> as a new tweet is being type
 This NLP model is going to generate the suggestions based on:
 
   * <a href="https://en.wikipedia.org/wiki/Word-sense_induction">Word-Sense Induction</a>
+  * <a href="https://en.wikipedia.org/wiki/Word-sense_disambiguation">Word-sense disambiguation</a>
   * Grammar
   * <a href="https://en.wikipedia.org/wiki/Intertextuality">Intertextuality</a>
   * Sentiment analysis
