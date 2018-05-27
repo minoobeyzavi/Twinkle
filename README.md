@@ -75,7 +75,7 @@ Offering <b>Positive Transformative Suggestions</b> as a new tweet is being type
 ```
 "JFK: I would never lie to you"  ->  "I shall speak to you with integrity”
 ```
-This NLP model is going to generate the suggestions based on:
+This NLP model must accurately understand the specific intent of a written sentence and its details. It is going to generate the suggestions based on:
 
   * <a href="https://en.wikipedia.org/wiki/Word-sense_induction">Word-Sense Induction</a>
   * <a href="https://en.wikipedia.org/wiki/Word-sense_disambiguation">Word-Sense Disambiguation</a>
