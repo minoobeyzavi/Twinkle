@@ -92,6 +92,8 @@ This NLP model must accurately understand the specific intent of a written sente
   "Audacity of Hope" vs. "Make America Great Again”
 ```
 
+History is made after someone gives a public speech. One powerful sentence sets the course of evolution. Examples. I have a dream.
+
 #### References
 
 * https://arxiv.org/pdf/1309.4168.pdf
