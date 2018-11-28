@@ -92,7 +92,7 @@ This NLP model must accurately understand the intent of a written sentence and i
   "Audacity of Hope" vs. "Make America Great Again”
 ```
 
-History is made after heartfelt words are spoken; Once a speech is given or a book is published, one powerful sentence sets the course of evolution. Example: "I have a dream."
+History is made when historic words are spoken; Heartfelt words are memorable; They reach the masses. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. Example: "I have a dream."
 
 #### References
 
