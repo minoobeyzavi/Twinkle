@@ -71,6 +71,7 @@ LSH Forest uses internally random hyperplanes to index the samples into buckets 
 
 ## Future Direction
 
+History is made when historic words are spoken; Heartfelt words speak to our souls. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. "I have a dream."
 Offering <b>Positive Transformative Suggestions</b> as a new tweet is being typed.
 ```
 "JFK: I would never lie to you"  ->  "I shall speak to you with integrity”
@@ -93,9 +94,9 @@ This NLP model must accurately understand the intent of a written sentence and i
 ```
   * Beyond sentiment analysis: Simple words of wisdom with genius connotations
 ```
-You know that it takes time but maybe it also takes iterrations.
+"You know that it takes time but maybe it also takes iterrations."
 ```
-History is made when historic words are spoken; Heartfelt words speak to our souls. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. "I have a dream."
+
 
 #### References
 
