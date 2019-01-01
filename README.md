@@ -94,7 +94,7 @@ This NLP model must accurately understand the intent of a written sentence and i
 ```
   * Beyond sentiment analysis: Simple words of wisdom with genius connotations
 ```
-"<b>You know</b> that it takes <b>time</b> but <b>maybe</b> it <b>also</b> takes <b>iterrations</b>."
+"You know that it takes time but maybe it also takes iterrations."
 ```
 
 
