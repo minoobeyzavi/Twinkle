@@ -1,6 +1,6 @@
-# Most Similar Tweets in Real-Time
+# Twinkle: Most Similar Tweets in Real-Time
 
-Twinkle is a natural language processing model capable of processing a growing database of billions of tweets and finding the most similar tweet in real-time as a new tweet is being typed. This model computes similarities by using a hashing vectorizer and a locality sensitive hashing forest to achieve sub-linear scaling of computation time.
+This project presents a natural language processing model capable of processing a growing database of billions of tweets and finding the most similar tweet in real-time as a new tweet is being typed. This model computes similarities by using a hashing vectorizer and a locality sensitive hashing forest to achieve sub-linear scaling of computation time.
 
 
 #### This Repo Contains:
