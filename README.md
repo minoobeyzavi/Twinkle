@@ -74,9 +74,9 @@ LSH Forest uses internally random hyperplanes to index the samples into buckets 
 History is made when historic words are spoken; Heartfelt words speak to our souls. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. "I have a dream."
 Offering <b>Positive Transformative Suggestions</b> as a new tweet is being typed.
 ```
-"JFK: I would never lie to you"  ->  "I shall speak to you with integrity”
+"JFK: I would never lie to you"  ->  "I always speak to you with integrity”
 ```
-This NLP model must accurately understand the intent of a written sentence and its specific details. Suggestions will be generated based on:
+Suggestions will be generated based on:
 
   * <a href="https://en.wikipedia.org/wiki/Word-sense_induction">Word-Sense Induction</a>
   * <a href="https://en.wikipedia.org/wiki/Word-sense_disambiguation">Word-Sense Disambiguation</a>
