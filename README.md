@@ -71,7 +71,7 @@ LSH Forest uses internally random hyperplanes to index the samples into buckets 
 
 ## Future Direction
 
-History is made when historic words are spoken; Heartfelt words speak to our souls. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. "I have a dream."
+History is driven by spoken word. Once a speech is given or a book is published, one powerful sentence sets the course of evolution. "I have a dream."
 Offering <b>Positive Transformative Suggestions</b> as a new tweet is being typed.
 ```
 "JFK: I would never lie to you"  ->  "I always speak to you with integrity”
