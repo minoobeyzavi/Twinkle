@@ -33,11 +33,11 @@ The application has to find the most similar text amongst billions of tweets as 
 
 Sublinear scaling of run time with <b>sequential use of Hashing Vectorizer and Locality Sensitive Hashing Forest</b>:
 - LSH Forest generates hash trees and uses hashing to define neighborhoods;
-- Similar items map to the same “buckets” with high probability (the number of buckets are much smaller than the universe of possible inputs);
 - Scikit-learn implementation of LSH provides access to Nearest Neighbors algorithm methods;
+- Similar items map to the same “buckets” with high probability (the number of buckets are much smaller than the universe of possible inputs);
 - Search space is limited to a bucket and we find the most similar tweets by computing similarities to a small portion of tweets.
 
-<b>As the database grows larger, model execution time stays the same!</b>
+<b>As the database of tweets grows larger, model execution time stays the same!</b>
 
 <div align="center"><img src=https://github.com/minoobeyzavi/Twinkle/blob/master/APP/static/img/Solution.png></div>
 
