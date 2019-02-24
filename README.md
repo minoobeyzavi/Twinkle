@@ -92,7 +92,7 @@ Suggestions will be generated based on:
 ```
   "Audacity of Hope" vs. "Make America Great Again”
 ```
-  * Beyond sentiment analysis: Simple words of wisdom with genius connotations
+  * Beyond sentiment analysis: Simple words and phrases that signal wisdom and genius.
 ```
 "You know that it takes time but maybe it also takes iterrations."
 ```
